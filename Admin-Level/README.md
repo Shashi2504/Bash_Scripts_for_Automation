@@ -89,3 +89,16 @@ chmod +x *.sh
 ```
 
 4. Run any of the scripts according to your needs
+
+5. Folder Structure
+
+To keep things organized, you can structure your repository like this:
+
+```
+admin-scripts/
+├── cleanup_logs.sh
+├── backup_data.sh
+├── update_system.sh
+├── admin_tasks.sh
+├── README.md
+```
